@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Milo Vahos`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Camilo Vahos`,
+      summary: `Todo lo que me gusta en un solo espacio`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `This is my personal blog where I talk about the things I like`,
+    siteUrl: `https://milovahos.com`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `CamiloVahos1`,
     },
   },
   plugins: [
